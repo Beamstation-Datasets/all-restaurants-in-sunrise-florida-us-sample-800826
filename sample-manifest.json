@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c99e994f-9a4e-4929-b992-0d7724c666c0",
+  "id_short": 800826,
+  "published_at": "2026-04-18T19:54:49Z",
+  "repo_name": "all-restaurants-in-sunrise-florida-us-sample-800826",
+  "sample_asset_name": "beamstation_800826_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/800826/beamstation_800826_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_records": 24,
+  "sample_sha256": "97b353bceae3b33847c898b00ecb40f9f966dd77610f1561eec986d43cd38b52",
+  "sample_size_bytes": 65999,
+  "total_records": 245
+}
