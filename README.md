@@ -1,6 +1,6 @@
 # All Restaurants in Sunrise, Florida, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `800826` |
 | Location | Sunrise |
 | Category | Restaurants |
-| Full dataset size | 199 records |
-| Free sample size | 19 records (9.55%) |
-| Last export | 2026-04-21T21:43:50.722337+00:00 |
+| Full dataset size | 256 records |
+| Free sample size | 25 records (9.77%) |
+| Last export | 2026-04-28T23:54:26.402995+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sunrise-florida-us-sample-800826/releases/download/sample-latest/beamstation_800826_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
